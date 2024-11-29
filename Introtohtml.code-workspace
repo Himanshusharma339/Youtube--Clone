@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../../../Python-series"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Introtohtml"
+	}
+}
